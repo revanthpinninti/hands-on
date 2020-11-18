@@ -1,2 +1,2 @@
 # hands-on
-Hands-on project including email service and other services.
+Hands-on project including email service, hashing passwords, jwt tokens etc.
